@@ -1,0 +1,49 @@
+{
+    "20260405213749": "that i have daily bread tomorrow at 9 a.m.",
+    "20260405213815": "tomorrow i'm going to be having an eevee session from 1:00 p.m. to 3 p.m.",
+    "20260405214346": "tomorrow at 9 p.m. gonna have a reporting meeting",
+    "20260405214824": "tomorrow i might have a fruit meeting at 4 p.m.",
+    "first_name": "Lu babalo",
+    "surname": "Dlangamandla",
+    "gender": "i'm a male",
+    "title": "Sir",
+    "dob": "april 5th 2005",
+    "setup_done": true,
+    "20260406040438": "in the morning at 9 a.m. i'm going to have daily bread",
+    "20260406040504": "around 1 p.m. to 3 p.m. i'm going to have an eevee session",
+    "20260406040528": "i may have a fruit meeting at 4 p.m.",
+    "20260406040552": "around 9 p.m. i'm going to have a reporting meeting",
+    "20260406040622": "around 6:30 up until 8:00 i'm going to be uploading my project on github",
+    "appointments": [
+        {
+            "title": "watching daily bread",
+            "date": "2026-04-06",
+            "time": "09:00"
+        },
+        {
+            "title": "evie session",
+            "date": "2026-04-06",
+            "time": "13:00"
+        },
+        {
+            "title": "uploading my projects to github",
+            "date": "2026-04-06",
+            "time": "18:30"
+        },
+        {
+            "title": "sleeping",
+            "date": "2026-04-06",
+            "time": "16:50"
+        },
+        {
+            "title": "taking a nap",
+            "date": "2026-04-06",
+            "time": "05:00"
+        },
+        {
+            "title": "taking a",
+            "date": "2026-04-06",
+            "time": "05:20"
+        }
+    ]
+}
